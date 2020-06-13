@@ -1,4 +1,4 @@
-# Gatsby 2 Power blog starter with Typescript
+# Gatsby starter with Typescript
 
 I constantly update this theme as this is my main website theme
 
@@ -11,10 +11,6 @@ This is a standard starter with Typescript, TSLint, StyleLint, Prettier, Lint-St
 ```
 gatsby new my_blog https://github.com/mhadaily/gatsby-starter-typescript-power-blog
 ```
-
-## Success Stories
-
-- I am using this template for my website <https://www.majidhajian.com>
 
 ### Features
 
@@ -38,18 +34,6 @@ gatsby new my_blog https://github.com/mhadaily/gatsby-starter-typescript-power-b
 - Automatic Sitemap generation.
 - Automatic support for Google Tag Manager
 - Netlify deploy ready
-
-#### Desktop
-
-<img src="https://raw.githubusercontent.com/mhadaily/gatsby-starter-typescript-power-blog/master/desktop.png">
-
-#### Dark Mode
-
-<img src="https://raw.githubusercontent.com/mhadaily/gatsby-starter-typescript-power-blog/master/desktop-dark.png">
-
-#### Mobile
-
-<img src="https://raw.githubusercontent.com/mhadaily/gatsby-starter-typescript-power-blog/master/mobile.png" width="300px">
 
 ### Keywords
 
